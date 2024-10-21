@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">germani</string>
+    <!-- Altri stringhe dell'app -->
+    <string name="welcome_message">Benvenuto nel sistema di gestione del Brescia Calcio</string>
+</resources>
